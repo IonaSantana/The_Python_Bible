@@ -1,2 +1,2 @@
-# The_Python_Bible
+# The Python Bible
 Projetos desenvolvidos no curso The Python Bible da Udemy
