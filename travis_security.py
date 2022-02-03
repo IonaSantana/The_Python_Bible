@@ -20,7 +20,7 @@ while True:
         add_me = input("Would you like to be added to the system (y/n)? ").strip().lower()
 
         if add_me == "y":
-            know_users.append(name)
+            know_users.append(name) #A = A + [name], A = A + list('BCD') / separa em B, C e D
         elif remove == "n":
             print("No worries, see you around!")
 
